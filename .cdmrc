@@ -1,0 +1,3 @@
+tabs: ["index.ts"]
+run-button: bun --hot index.ts
+terminals: ["bun install && bun --hot index.ts"]
